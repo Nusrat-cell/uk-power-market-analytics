@@ -33,9 +33,16 @@ Demand, wind generation, solar generation, renewable share, residual demand, int
 ## Important limitation
 These are simulated results and should not be presented as live-market forecasts or real-world predictive accuracy.
 
+
 ## Files
-- `UK_Power_Market_Analytics_Case_Study_.pdf`
-- `UK_Power_Market_Analytics_Workbook.xlsx`
-- `uk_power_market_simulated_2025.csv`
-- validated model output CSVs
-- evidence charts
+- `UK_Power_Market_Analytics_Case_Study.pdf` — Full analytical case study
+- `UK_Power_Market_Analytics_Workbook.xlsx` — Underlying analysis workbook
+- `charts/` — Actual vs predicted, feature importance, and 21-day time-series charts
+
+## Charts
+
+![Actual vs Predicted](charts/actual_vs_predicted.png)
+
+![Feature Importance](charts/feature_importance.png)
+
+![21-Day Time Series](charts/timeseries_21day.png)
