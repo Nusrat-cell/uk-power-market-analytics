@@ -41,8 +41,9 @@ These are simulated results and should not be presented as live-market forecasts
 
 ## Charts
 
-![Actual vs Predicted](charts/actual_vs_predicted.png)
 
-![Feature Importance](charts/feature_importance.png)
+![Actual vs Predicted](charts/validated_actual_vs_predicted.png)
 
-![21-Day Time Series](charts/timeseries_21day.png)
+![Feature Importance](charts/validated_feature_importance.png)
+
+![21-Day Time Series](charts/validated_21_day_prediction.png)
